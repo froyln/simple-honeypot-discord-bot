@@ -6,7 +6,7 @@ Simple honeypot bot, works only with one server (more easy code).
 > Multiple servers require multiple settings.
 
 ## Installation
-Fork the github project
+Clone the github project
 ```
 git clone https://github.com/froyln/simple-honeypot-discord-bot/
 ```
