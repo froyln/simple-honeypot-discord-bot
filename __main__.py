@@ -12,7 +12,7 @@ try:
     with open("settings.json", "r") as f:
         settings = json.load(f)
 except Exception:
-    print("Error, no se encontro el archivo settings.json")
+    print("settings.json error")
     os._exit(0)
 
 
